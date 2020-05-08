@@ -3,8 +3,10 @@ A login script bash run on a terminal.</br></br>
 [![asciicast](https://asciinema.org/a/325476.png)](https://asciinema.org/a/325476)
 
 # Default Username & Pass
-Username: paidjemz</br>
+```
+Username: paidjemz
 Password: 12345
+```
 
 # Custom
 To set your custom user & pass just edit the code :)<br/>
