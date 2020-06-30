@@ -12,8 +12,8 @@ Password: 12345
 # Custom
 To set your custom user & pass just edit the code :)<br/>
 
-# Donasi
-Buy me some drinks! :D<br/>
+# Support Me
+Buy me a cup coffee :D<br/>
 ![donate](https://paidjemz.files.wordpress.com/2020/05/gopayy.png)
 <br/>
 ![alt text](http://xcodeserver.my.id/gopay.png)
